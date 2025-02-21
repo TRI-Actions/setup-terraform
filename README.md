@@ -1,3 +1,5 @@
+ NOTICE - This repo was copied from https://github.shared-services.aws.tri.global/infrastructure/setup-terraform ref: TRI-40381 
+
 # setup-terraform
 
 [![Continuous Integration](https://github.com/hashicorp/setup-terraform/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/hashicorp/setup-terraform/actions/workflows/continuous-integration.yml)
